@@ -1,4 +1,3 @@
-# Pull Request Template
 
 ## Description
 <!-- What does this PR change and why? Provide context for reviewers. -->
